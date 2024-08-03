@@ -1,0 +1,16 @@
+
+.todo-title {
+    font-size: 20px;
+    color: red;
+}
+
+.todo-container {
+    width: 50%;
+    margin: 50px auto;
+}
+
+.todo-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
